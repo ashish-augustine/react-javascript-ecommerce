@@ -30,8 +30,6 @@
 npm install && npm start
 ```
 
-Then visit the url http://localhost:3000/
-
 
 
 
